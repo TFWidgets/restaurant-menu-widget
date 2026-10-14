@@ -1,0 +1,174 @@
+{
+ "active": true,
+ "domains": [
+  "tf-widgets.com",
+  "*.tf-widgets.com"
+ ],
+ "widget": "menu",
+ "heading": "Our menu",
+ "subheading": "Fresh Italian food, made every day",
+ "currency": "€",
+ "categories": [
+  {
+   "name": "Starters",
+   "note": "Served with homemade bread",
+   "items": [
+    {
+     "name": "Bruschetta",
+     "desc": "Toasted bread, tomatoes, garlic, basil, olive oil",
+     "price": "6.50",
+     "tags": [
+      "vegan"
+     ],
+     "allergens": [
+      1
+     ]
+    },
+    {
+     "name": "Burrata",
+     "desc": "Creamy burrata, cherry tomatoes, rocket, pesto",
+     "price": "9.00",
+     "tags": [
+      "vegetarian",
+      "chef"
+     ],
+     "allergens": [
+      7,
+      8
+     ]
+    },
+    {
+     "name": "Calamari fritti",
+     "desc": "Fried squid rings, lemon, aioli",
+     "price": "10.50",
+     "allergens": [
+      1,
+      3,
+      14
+     ],
+     "soldOut": true
+    }
+   ]
+  },
+  {
+   "name": "Pizza",
+   "items": [
+    {
+     "name": "Margherita",
+     "desc": "Tomato, mozzarella, basil",
+     "price": "9.50",
+     "tags": [
+      "vegetarian"
+     ],
+     "allergens": [
+      1,
+      7
+     ]
+    },
+    {
+     "name": "Diavola",
+     "desc": "Tomato, mozzarella, spicy salami, chili",
+     "price": "11.50",
+     "tags": [
+      "spicy"
+     ],
+     "allergens": [
+      1,
+      7
+     ]
+    },
+    {
+     "name": "Quattro formaggi",
+     "desc": "Mozzarella, gorgonzola, parmesan, fontina",
+     "price": "12.00",
+     "tags": [
+      "new"
+     ],
+     "allergens": [
+      1,
+      7
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Pasta",
+   "items": [
+    {
+     "name": "Carbonara",
+     "desc": "Spaghetti, guanciale, egg yolk, pecorino",
+     "price": "12.00",
+     "allergens": [
+      1,
+      3,
+      7
+     ]
+    },
+    {
+     "name": "Pesto Genovese",
+     "desc": "Trofie, basil pesto, pine nuts, parmesan",
+     "price": "11.00",
+     "tags": [
+      "vegetarian"
+     ],
+     "allergens": [
+      1,
+      7,
+      8
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Desserts",
+   "items": [
+    {
+     "name": "Tiramisu",
+     "desc": "Mascarpone, espresso, cocoa",
+     "price": "6.00",
+     "allergens": [
+      1,
+      3,
+      7
+     ]
+    },
+    {
+     "name": "Panna cotta",
+     "desc": "Vanilla cream, berry sauce",
+     "price": "5.50",
+     "tags": [
+      "glutenfree"
+     ],
+     "allergens": [
+      7
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Drinks",
+   "items": [
+    {
+     "name": "Espresso",
+     "price": "2.50"
+    },
+    {
+     "name": "Homemade lemonade",
+     "desc": "Lemon, mint, sparkling water",
+     "price": "4.00",
+     "tags": [
+      "vegan"
+     ]
+    },
+    {
+     "name": "House red wine",
+     "desc": "Glass, 150 ml",
+     "price": "5.50",
+     "allergens": [
+      12
+     ]
+    }
+   ]
+  }
+ ]
+}
